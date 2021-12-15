@@ -1,0 +1,13 @@
+De links naar de datasets zijn te vinden in het eerste gedeelte van de tekst bij het hoofdstuk datasets, maar hieronder worden de links nog eens meegedeeld.
+GDP: https://www.kaggle.com/nitishabharathi/gdp-per-capita-all-countries
+Trade: https://www.kaggle.com/unitednations/global-commodity-trade-statistics
+
+De gdp dataset is al in de repository inbegrepen, de trade dataset zal nog gedwonload en in de Datasets folder geplaatst worden. 
+
+Alle JSON files voor het maken van de map zijn terug te vinden op volgende link: https://stefangabos.github.io/world_countries/
+
+Voor het maken van de choropleth is er nog een JSON file nodig, namelijk world-countries, deze is te vinden op: https://www.kaggle.com/ktochylin/world-countries
+
+Voor het runnen van de code raden we aan de json files te gebruiken zoals ze in de data folder staan in de repository.
+De originele json bestanden hebben we soms wat moeten aanpassen om deze te kunnen gebruiken in de code. 
+Het downloaden en gebruiken van deze bestanden zonder aanpassing zal dan ook niet werken.
